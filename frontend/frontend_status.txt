@@ -5,5 +5,9 @@ installed node modules
 deleted the contents of file App.jsx, Index.css
 deleted file app.css
 changed name of Index.html title tag
-
 video time = 00:16:24
+
+Routing done
+Navbar done
+some images are uploaded in assests folder 
+video time 00:55:45
