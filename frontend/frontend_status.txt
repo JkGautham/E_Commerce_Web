@@ -11,3 +11,8 @@ Routing done
 Navbar done
 some images are uploaded in assests folder 
 video time 00:55:45
+
+Created Product array in Assets.js
+Successfully implemented Hero.jsx, Title.jsx, ShopContext.jsx
+Working on LatestCollection.jsx and ProductItem.jsx
+video time : 01:18:40
