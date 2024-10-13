@@ -4,6 +4,9 @@ import profile_icon from "./icons8-person-48.png";
 import cart_icon from "./icons8-cart-96.png";
 import menu_icon from "./icons8-menu-128.png";
 import hero_img from "./Image_2.jpg";
+import exchange_icon from "./icons8-exchange-50.png";
+import qual_icon from "./icons8-quality-50.png";
+import support_icon from "./icons8-support-50.png";
 
 export const assets = {
   logo,
@@ -12,6 +15,9 @@ export const assets = {
   cart_icon,
   menu_icon,
   hero_img,
+  exchange_icon,
+  qual_icon,
+  support_icon,
 };
 
 export const products = [
@@ -26,7 +32,7 @@ export const products = [
     subCategory: "Topwear",
     sizes: ["S", "M", "L"],
     date: 1716634345448,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "bbbb",
@@ -65,7 +71,7 @@ export const products = [
     subCategory: "Topwear",
     sizes: ["S", "M", "L"],
     date: 1616634345448,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "eeee",
@@ -91,7 +97,7 @@ export const products = [
     subCategory: "Topwear",
     sizes: ["S", "M", "L"],
     date: 1716674345448,
-    bestseller: true,
+    bestseller: false,
   },
   {
     _id: "gggg",
@@ -117,6 +123,6 @@ export const products = [
     subCategory: "Topwear",
     sizes: ["S", "M", "L"],
     date: 1716634345548,
-    bestseller: true,
+    bestseller: false,
   },
 ];
