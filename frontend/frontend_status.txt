@@ -31,3 +31,11 @@ latest colletion editted
 HOME PAGE COMPLETED
 
 Video time : 01:50:40
+
+
+implemented Colections PAGE
+changed ShopContext
+added some images to assets folder
+started Search bar
+ 
+vid time : 02:33:37
