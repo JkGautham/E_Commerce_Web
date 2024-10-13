@@ -8,6 +8,7 @@ import exchange_icon from "./icons8-exchange-50.png";
 import qual_icon from "./icons8-quality-50.png";
 import support_icon from "./icons8-support-50.png";
 import dropdown_icon from "./icons8-dropdown-50.png";
+import cross_icon from "./icons8-cross-60.png";
 
 import kidtop from "./KidTop.jpg";
 import kidbtm from "./KidBottom.jpg";
@@ -27,6 +28,7 @@ export const assets = {
   qual_icon,
   support_icon,
   dropdown_icon,
+  cross_icon,
 };
 
 export const products = [
