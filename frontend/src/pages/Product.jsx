@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { ShopContext } from "../context/ShopContext";
 import { assets } from "../assets/assets";
+import RelatedProducts from "../components/RelatedProducts";
 
 const Product = () => {
   const { productId } = useParams();
@@ -91,7 +92,25 @@ const Product = () => {
           <b className="border px-5 py-3 text-sm">Description</b>
           <p className="border px-5 py-3 text-sm">Reviews(122)</p>
         </div>
+        <div className="flex flex-col gap-4 border px-6 py-6 text-sm text-gray-500">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo,
+            impedit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Numquam vitae quam aliquam cum odit dolore eius dolores omnis
+            quibusdam non, ad consectetur perspiciatis neque pariatur possimus
+            accusamus, aut enim fugiat.
+          </p>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam
+            distinctio molestiae, coLorem ipsum dolor sit amet, consectetur
+            adipisicing elit. Numquam vitae quam aliquam cum odit dolore eius
+            dolores omnis quibusdam non, ad consectetur perspiciatis neque
+            pariatur possimus accusamus, aut enim fugiarpori s qui quas
+            asperiores ratione delectus adipisci. Quibusdam, molestias?
+          </p>
+        </div>
       </div>
+      <RelatedProducts />
     </div>
   ) : (
     <div className="opacity-0"></div>
