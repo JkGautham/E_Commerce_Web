@@ -16,3 +16,8 @@ Created Product array in Assets.js
 Successfully implemented Hero.jsx, Title.jsx, ShopContext.jsx
 Working on LatestCollection.jsx and ProductItem.jsx
 video time : 01:18:40
+
+Latest collection done
+product item card done
+navbar also changed
+video time : 01:28:40
