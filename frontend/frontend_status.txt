@@ -5,5 +5,37 @@ installed node modules
 deleted the contents of file App.jsx, Index.css
 deleted file app.css
 changed name of Index.html title tag
-
 video time = 00:16:24
+
+Routing done
+Navbar done
+some images are uploaded in assests folder 
+video time 00:55:45
+
+Created Product array in Assets.js
+Successfully implemented Hero.jsx, Title.jsx, ShopContext.jsx
+Working on LatestCollection.jsx and ProductItem.jsx
+video time : 01:18:40
+
+Latest collection done
+product item card done
+navbar also changed
+video time : 01:28:40
+
+BestSeller done
+FOOTER done
+Newsletter done
+our Policy done
+latest colletion editted
+
+HOME PAGE COMPLETED
+
+Video time : 01:50:40
+
+
+implemented Colections PAGE
+changed ShopContext
+added some images to assets folder
+started Search bar
+ 
+vid time : 02:33:37
