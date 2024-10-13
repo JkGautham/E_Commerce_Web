@@ -37,8 +37,6 @@ const Navbar = () => {
           className="w-5 cursor-pointer"
           alt=""
         />
-
-        {/* Dropdown Menu */}
         <div className="relative group">
           <img
             src={assets.profile_icon}
