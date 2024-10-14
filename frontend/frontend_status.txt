@@ -39,3 +39,8 @@ added some images to assets folder
 started Search bar
  
 vid time : 02:33:37
+
+Product page done
+add to cart done
+related products done
+video time : 03:41:00
