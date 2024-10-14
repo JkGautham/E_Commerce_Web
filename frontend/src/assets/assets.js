@@ -1,4 +1,5 @@
-import logo from "./px695_C_Programming_Language.png";
+import logo1 from "./px695_C_Programming_Language.png";
+import logo from "./Insular_G_1.png"
 import search_icon from "./icons8-search-50.png";
 import profile_icon from "./icons8-person-48.png";
 import cart_icon from "./icons8-cart-96.png";
