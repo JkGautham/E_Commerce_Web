@@ -1,5 +1,5 @@
 import logo1 from "./px695_C_Programming_Language.png";
-import logo from "./Insular_G_1.png"
+import logo from "./Insular_G_1.png";
 import search_icon from "./icons8-search-50.png";
 import profile_icon from "./icons8-person-48.png";
 import cart_icon from "./icons8-cart-96.png";
@@ -12,6 +12,9 @@ import dropdown_icon from "./icons8-dropdown-50.png";
 import cross_icon from "./icons8-cross-60.png";
 import star_icon from "./icons8-star-48.png";
 import star_dull_icon from "./icons8-star-41.png";
+import bin_icon from "./icons8-bin-48.png";
+import stripe_logo from "./icons8-stripe-150.png";
+import razorpay_logo from "./Razorpay_logo.svg";
 
 import kidtop from "./KidTop.jpg";
 import kidbtm from "./KidBottom.jpg";
@@ -24,8 +27,11 @@ export const assets = {
   logo,
   search_icon,
   profile_icon,
+  razorpay_logo,
+  stripe_logo,
   cart_icon,
   menu_icon,
+  bin_icon,
   hero_img,
   exchange_icon,
   star_dull_icon,
