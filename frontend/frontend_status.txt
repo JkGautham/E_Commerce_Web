@@ -44,3 +44,9 @@ Product page done
 add to cart done
 related products done
 video time : 03:41:00
+
+Place Order page 
+Cart page implemented
+Cart-total
+video time 4:34:00
+
