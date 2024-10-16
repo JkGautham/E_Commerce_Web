@@ -4,3 +4,7 @@ This file holds the latest edits done to the backend folder and also the last wa
 initial set up done
 connecttin to apis of MONGO CLOUDINARY established
 vid time : 5:39:37
+
+user router imported and used in server.js
+changed file: userController,server.js
+vid time : 5:56:47
